@@ -1,2 +1,2 @@
-# Crud_API
-This is laravel Crud API using postman.
+# Laravel Learning
+This is laravel Examples  for Learning.
