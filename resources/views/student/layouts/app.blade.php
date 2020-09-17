@@ -10,7 +10,7 @@
     <title>Laravel 7 Crud Operation</title>
 </head>
 <body>
-    <div class="contaner">
+    <div class="container">
         @yield('content')
     </div>  
 </body>
